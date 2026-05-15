@@ -7,7 +7,7 @@
 - Biostatistics (Health Data Science), MSc. | University of Florida (_May 2028_)
 
 ### Work Experience
-Microbiologist @ Alaska Department of Environmental Conservation (_August 2024 - December 2025_)
-Owner & Manager @ Golden Standard Bnb (_January 2026 - Present_)
+- Microbiologist @ Alaska Department of Environmental Conservation (_August 2024 - December 2025_)
+- Owner & Manager @ Golden Standard Bnb (_January 2026 - Present_)
 
 ### Projects
